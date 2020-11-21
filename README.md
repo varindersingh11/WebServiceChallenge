@@ -10,3 +10,4 @@ Application will be loaded.
 2. Enter the decimal value which need be converted.
 3. Hit Convert
 4. Result will be displayed with Celsius and Farenheit scales.
+
